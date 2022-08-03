@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Lucas', '177.777.777-77', 2700.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Lara', '177.777.777-88', 2500.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Denise', '177.777.777-99', 3700.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Paulo', '177.777.777-66', 2100.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ana', '177.777.777-55', 2603.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Guto', '177.777.777-44', 5700.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 9);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pedro', '177.777.777-33', 6700.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Raphael', '177.777.777-22', 7300.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 5);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Matheus', '177.777.777-11', 2740.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ully', '177.777.777-00', 1700.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 1);
